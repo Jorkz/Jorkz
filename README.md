@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jordan (@Jorkz).
+- 👀 I’m interested in programming, and i hope be a good programmer one day.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, MySQL and Java.
+- 🌎 I’m from Costa Rica 🇨🇷.
+- 📫 I'm actualy learning english.
+- 🐕 I like animals too, i think that's very important information.
